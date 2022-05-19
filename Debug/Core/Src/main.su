@@ -1,0 +1,13 @@
+main.c:126:6:HAL_UART_RxCpltCallback	16	static
+main.c:149:10:LCD_UART_COMMAND	32	static
+main.c:264:6:get_Pulse_array	32	static
+main.c:291:5:main	784	static
+main.c:2841:6:SystemClock_Config	160	static
+main.c:2890:13:MX_ADC3_Init	48	static
+main.c:2953:13:MX_DAC1_Init	24	static
+main.c:2991:13:MX_TIM1_Init	112	static
+main.c:3071:13:MX_TIM2_Init	40	static
+main.c:3116:13:MX_USART2_UART_Init	8	static
+main.c:3149:13:MX_DMA_Init	16	static
+main.c:3167:13:MX_GPIO_Init	48	static
+main.c:3263:6:Error_Handler	4	static
